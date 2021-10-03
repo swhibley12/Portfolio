@@ -21,12 +21,13 @@ h6 {
 }
 
 h1 {
-  font-weight: 96px;
+  font-size: 96px;
 }
 
 p {
   font-weight: normal;
 }
+
 .hero {
   background: var(--secondary-color);
   text-align: center;
