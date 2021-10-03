@@ -27,7 +27,7 @@ nav li {
 }
 nav a {
   text-decoration: none;
-  color: #190204;
+  color: var(--branding-color);
 }
 
 nav a :hover {
