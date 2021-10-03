@@ -82,7 +82,7 @@ footer a {
   text-decoration: none;
   font-size: 28px;
   margin: 0 20px;
-  display: inline;
+  display: block;
 }
 
 footer a :hover {
