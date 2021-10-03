@@ -80,13 +80,17 @@ p {
 footer a {
   color: var(--branding-color);
   text-decoration: none;
-  font-size: 15px;
+  font-size: 28px;
   margin: 0 20px;
 }
 
 footer a :hover {
   color: var(--secondary-color);
   cursor: pointer;
+}
+
+footer p {
+  color: #6c63ff;
 }
 
 @media (max-width: 960px) {
