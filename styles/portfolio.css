@@ -1,6 +1,6 @@
 :root {
-  --branding-color: #6c63ff;
-  --secondary-color: #f9f7fe;
+  --branding-color: #4d9967;
+  --secondary-color: #f7fef7;
   --heading-font-family: "Playfair Display", serif;
   --default-font-family: "Poppins", sans-serif;
 }
@@ -116,7 +116,7 @@ footer a :hover {
 }
 
 footer p {
-  color: #6c63ff;
+  color: #4d9967;
   text-align: center;
 }
 
