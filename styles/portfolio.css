@@ -139,7 +139,7 @@ footer a {
   color: var(--branding-color);
   text-decoration: none;
   font-size: 28px;
-  margin: 60px 0;
+  margin: 0 20px;
   display: inline;
 }
 
@@ -147,10 +147,6 @@ footer .contact-box {
   background: var(--secondary-color);
   padding: 30px 120px;
   border-radius: 10px;
-}
-
-footer .contact-box p {
-  margin: 0;
 }
 
 footer a :hover {
