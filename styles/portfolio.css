@@ -31,11 +31,8 @@ nav a {
   transition: all 100ms ease-in-out;
 }
 
+nav a :hover,
 nav li.active a {
-  color: var(--branding-color);
-}
-
-nav a :hover {
   color: var(--branding-color);
 }
 
