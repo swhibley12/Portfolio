@@ -149,6 +149,10 @@ footer .contact-box {
   border-radius: 10px;
 }
 
+footer .contact-box p {
+  margin: 0;
+}
+
 footer a :hover {
   color: #bae4c9;
   cursor: pointer;
